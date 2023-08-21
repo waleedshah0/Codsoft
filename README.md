@@ -1,5 +1,6 @@
 # Codsoft
 It is a Remote internship. For the C++Programming internship, you will need to complete at least 3 tasks for successful completion of the internship.
+
 Task 1: Number Guessing Game
 
 In this task, you were assigned to develop a "Number Guessing Game." The game involves a player attempting to guess a randomly generated number within a certain range. The game provides feedback to the player after each guess, indicating whether the guess was too high or too low. The player continues guessing until they correctly identify the target number or decide to quit. This task required implementing random number generation, user input handling, conditional statements, and loops to create an interactive and engaging game experience.
